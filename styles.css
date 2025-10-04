@@ -27,7 +27,6 @@ body{
     font-size: 20px
 }
 
-/* Overlays */
 #start-screen, #game-over {
     position: absolute;
     top: 0; left: 0;
